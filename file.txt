@@ -1,0 +1,16 @@
+Ini adalah contoh file teks.
+File ini memiliki beberapa baris dengan berbagai panjang.
+File ini digunakan untuk menghitung ukuran file dalam kilobyte (KB).
+File ini akan digunakan sebagai contoh untuk program Python.
+Subject: Introduction to Python
+This is the first email subject.
+Subject: Data Analysis Workshop
+Here's the agenda for the workshop.
+Subject: Invitation to Conference
+You're invited to attend our upcoming conference.
+Ini adalah contoh file teks.
+File ini berisi beberapa baris yang akan dibaca oleh program.
+Program akan mencari string "ac.uk" dalam setiap baris.
+Jika ditemukan, program akan mencetak pesan yang sesuai.
+String "ac.uk" bisa muncul dalam satu baris atau lebih.
+Semoga contoh ini membantu!
